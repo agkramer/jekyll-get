@@ -1,2 +1,2 @@
-+/* Ignore built gems */
- +*.gem
+/* Ignore built gems */
+ *.gem
