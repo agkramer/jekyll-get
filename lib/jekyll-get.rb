@@ -2,7 +2,7 @@ require 'json'
 require 'hash-joiner'
 require 'open-uri'
 
-module Jekyll_Get
+module JekyllGet
   class Generator < Jekyll::Generator
     safe true
     priority :highest
