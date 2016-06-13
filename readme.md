@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #Jekyll::Get
 
 Ruby gem to download data from external JSON sources to use in Jekyll site
@@ -40,7 +39,6 @@ Add this file to `_plugins` in the root of your Jekyll site.
 This plugin reads settings from the `_config.yml` file. Add settings as attributes or an array of attributes for multiple files.
 
 ## Example
->>>>>>> 6285aa69e2c5eebcb247c5ca5fc2dc9e2a51e71c
 
 ```yml
 jekyll_get:
